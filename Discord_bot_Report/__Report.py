@@ -1,4 +1,4 @@
-# ** author: Nazome-Tamaki **
+# ** author: S1354008 **
 #v--------------Discord_import--------------v#
 import discord
 from discord.ext import commands

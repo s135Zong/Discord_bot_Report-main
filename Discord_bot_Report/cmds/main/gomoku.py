@@ -1,6 +1,4 @@
-# cmds/games/gomoku.py
-
-# ** author: S1354001劉羿宗 **
+# ** author: S1354001, S1354019 **
 
 #v--------------Discord_import--------------v#
 import discord
